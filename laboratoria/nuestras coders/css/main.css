@@ -1,0 +1,16 @@
+.caja{
+	display: inline-block;
+	position: relative;
+	margin-left: 15px;
+}
+.foto{
+	display: inline-block;
+	position: relative;
+}
+
+
+.nombre{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}

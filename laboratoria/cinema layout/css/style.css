@@ -1,0 +1,53 @@
+
+header{
+	margin: 0 auto;
+	width: 900px;
+	height: 900px;
+}
+.container{
+	max-width: 100%;
+}
+
+.col-indice{
+	max-width: 100%;
+	height: 20%;
+	display: inline;
+	box-sizing: border-box;
+}
+
+.col-12 .tablas{
+	align: right;
+}
+
+
+.col-4 .logo img{
+	height: 80px;
+	width: 100%;
+}
+
+.row-indice .col-4 .enlace a{
+	text-decoration: none;
+	color: #BFB8EE;
+	font-size: 10px;
+	margin-bottom: -10px;
+	font-family: Arial;
+	text-align-top: 50px;
+}
+
+.row-indice .col-4 .buscador{
+	margin-top: 30px;
+	margin-left: 100px;
+}
+
+.col-12 .row-grupo .hero{
+	width: -10px;
+	height: -10px;
+}
+
+
+
+
+
+.container-principal{
+	max-width: 100%;
+}

@@ -1,0 +1,22 @@
+.abuelo {
+	background-color: #ED462F;
+	width: 500px;
+	height: 500px;
+	position: static;
+	box-sizing: border-box;
+	padding: 80px;
+}
+
+.padre {
+	background-color: #752E80;
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+
+.hijo {
+	background-color: #FFF835;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+}

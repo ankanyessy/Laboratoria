@@ -1,0 +1,59 @@
+/* Inserta tu codigo aqui */
+
+/* Responsive */
+
+@media screen and (max-width : 100%) {
+
+}
+
+@media screen and (max-width: 600px) {
+	.container {
+		width: 100%;
+		padding-left: 14px; 
+		padding-right: 14px;
+		margin: 0px auto;
+		position: relative;
+		}
+}
+
+.container-fluid {
+		max-width: 50%;
+		padding-left: 14px; 
+		padding-right: 14px;
+		margin: 0px auto;
+		position: relative;
+}
+
+header {
+	background-color: #000000;
+}
+.logo {
+	font-size: 15px;
+}
+
+.logo img {
+	height: 100%;
+	width: 50%;
+	float: right;
+}
+
+.ImagenFondo {
+	background-image: url(image/header-image.jpg);
+}
+
+
+ul li {
+	display: inline-table;
+	list-style-type: none;
+	padding-left: 20px;
+	margin-top: 7%;
+	text-align: right;
+}
+
+ul li a {
+	text-decoration: none;
+	font-family: Arial;
+	font-size: 10px;
+	color: white;
+  	
+}

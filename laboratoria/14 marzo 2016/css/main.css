@@ -1,0 +1,22 @@
+/*.container{width:920;
+			margin:0 auto;
+			background-color:#9531FF;
+		}*/
+/*.container div{width: 300px;
+				height: 300px;
+				background-color: #5CFF93;
+				display: inline-block;
+				border: 10px #FF68C4 solid;
+				padding: 20px;
+				box-sizing:border-box;}
+		}*/
+.cajon{			width:200px;
+				border:10px #1623FF solid;
+				padding:20px;
+				display:inline-block;
+				background-color: #B1FF48;
+		}
+.cajon div{		border:10px solid #CDEBFF;
+				max-height: 240px;
+
+}
